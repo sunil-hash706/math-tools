@@ -66,24 +66,7 @@
     width: 135px;
     font-size: 14px;
 }
-#length_box{
-    visibility: hidden;
-}
-#area_box{
-    visibility: hidden;
-}
-#time_box{
-    visibility: hidden;
-}
-#temperature_box{
-    visibility: hidden;
-}
-#weight_box{
-    visibility: hidden;
-}
-#volume_box{
-    visibility: hidden;
-}
+
 .home_box{
     text-align: center;
     justify-content: center;
